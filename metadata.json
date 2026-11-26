@@ -1,0 +1,6 @@
+{
+  "name": "Farmácia Vladmir & Benilson",
+  "description": "Sistema completo de gestão farmacêutica: utilizadores, stock, classes farmacológicas, compras, vendas, proformas, devoluções, inventário, fechos de caixa e relatórios.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
